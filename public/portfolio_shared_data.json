@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Doran Smith",
+      "titles": [ "Software Engineer"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/andora814",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/dorancsmith/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.jpeg"
     },
     "skills": {
       "icons": [
