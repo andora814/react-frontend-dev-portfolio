@@ -15,8 +15,8 @@
         },
         {
           "name": "resume",
-          "url": "https://docs.google.com/document/d/1jfmtawXcWEnjPGUIZo2VdA53tVrTF1-OId8_JKLJevc/edit",
-          "class": "fab fa-resume"
+          "url": "https://drive.google.com/file/d/1WzDN9Lx8CV2aAPurFD7YgBB0zQ4sbigR/view?usp=sharing",
+          "class": "fa-regular fa-page"
         }
       ],
       "image": "myProfile.jpeg"
@@ -34,39 +34,69 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "70"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "70"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "70"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "70"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "70"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "70"
+        },
+        {
+          "name": "Vue.js",
+          "class": "devicon-vuejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "70"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original",
+          "level": "70"
+        },
+        {
+          "name": "Trello",
+          "class": "devicon-trello-plain",
+          "level": "70"
         }
       ]
     }

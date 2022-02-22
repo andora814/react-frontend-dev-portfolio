@@ -2,7 +2,7 @@
     "basic_info": {
       "description_header": "Hi, I'm Doran Smith",
       "description": "I am a Software Engineer with a degree in theoretical mathematics and a background in HR compensation analysis. I have experience working in a fast-paced and dynamic high-tech environment, and excel at collaborating and working on a team. I have a proven track record of communicating the most important details to non-technical audiences, allowing me to better message key takeaways, maintain engagement and facilitate decision making.",
-      "description_part_two": "When I am not coding, I enjoy spending time with my husband and our dog. I love yoga, the beach, traveling and puzzles.",
+      "description_part_two": "When I am not coding, I enjoy spending time with my husband and our dog. I love yoga, my family, the beach, traveling, skiing, logic problems and jigsaw puzzles.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -114,81 +114,27 @@
       {
         "company": "General Assembly",
         "title": "Software Engineering Immersive Student",
-        "years": "11.2021 - 02.2022",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+        "years": "11.2021 - 02.2022"
       },
       {
         "company": "Akamai Technologies",
         "title": "Senior Manager Compensation",
-        "years": "07.2017 - 08.2021",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "years": "07.2017 - 08.2021"
       },
       {
         "company": "Bank of America",
         "title": "Compensation Consultant II",
-        "years": "07.2008 - 07.2017",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "years": "07.2008 - 07.2017"
       },
       {
         "company": "University of Rhode Island",
         "title": "Master's of Science in Mathematics",
-        "years": "09.2006 - 06.2008",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "years": "09.2006 - 06.2008"
       },
       {
         "company": "Providence College",
         "title": "Bachelor's of Arts in Mathematics",
-        "years": "09.2002 - 06.2006d",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "years": "09.2002 - 06.2006"
       }
     ]
   }
