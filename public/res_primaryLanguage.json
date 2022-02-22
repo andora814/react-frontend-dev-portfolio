@@ -2,6 +2,7 @@
     "basic_info": {
       "description_header": "Hi, I'm Doran Smith",
       "description": "I am a Software Engineer with a degree in theoretical mathematics and a background in HR compensation analysis. I have experience working in a fast-paced and dynamic high-tech environment, and excel at collaborating and working on a team. I have a proven track record of communicating the most important details to non-technical audiences, allowing me to better message key takeaways, maintain engagement and facilitate decision making.",
+      "description_part_two": "When I am not coding, I enjoy spending time with my husband and our dog. I love yoga, the beach, traveling and puzzles.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -19,7 +20,8 @@
           "images/portfolio/the-recipe-box/p2.png",
           "images/portfolio/the-recipe-box/p3.png"
         ],
-        "url": "https://github.com/andora814/The-Recipe-Box",
+        "url": "",
+        "github": "https://github.com/andora814/The-Recipe-Box",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -38,13 +40,14 @@
       {
         "title": "Great Reads",
         "startDate": "2022",
-        "description": "Full-stack MERN application with tips and yoga poses to help users focus on self care while working from home. Made RESTful API fetch calls to an Express, MongoDB, Node.js backend handling all create, read, update, delete (CRUD) operations, and tested all backend routes during development using Insomnia.",
+        "description": "Full-stack PERN application built with 3 other developers. Designed a spin on GoodReads, which allowed users to share their favorite books and add reviews. Backend consisted of 5 associated tables, front end was developed with React Redux for state management, and a Google Books API was used to add books to the site.",
         "images": [
           "images/portfolio/great-reads/p1.png",
           "images/portfolio/great-reads/p2.png",
           "images/portfolio/great-reads/p3.png"
         ],
         "url": "https://salty-sierra-46312.herokuapp.com/",
+        "github": "https://github.com/JJVenable/GreatReads",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -70,6 +73,7 @@
           "images/portfolio/wellness-while-working-from-home/p3.png"
         ],
         "url": "https://wellness-while-wfh.herokuapp.com/tips",
+        "github": "https://github.com/andora814/Wellness-While-WFH",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -93,6 +97,7 @@
           "images/portfolio/memory-game/p1.png"
         ],
         "url": "https://doransmithmemorygame.surge.sh/",
+        "github": "https://github.com/andora814/Unit-1-Project---Memory-Game",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -107,9 +112,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "General Assembly",
+        "title": "Software Engineering Immersive Student",
+        "years": "11.2021 - 02.2022",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -126,9 +131,54 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Akamai Technologies",
+        "title": "Senior Manager Compensation",
+        "years": "07.2017 - 08.2021",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Bank of America",
+        "title": "Compensation Consultant II",
+        "years": "07.2008 - 07.2017",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "University of Rhode Island",
+        "title": "Master's of Science in Mathematics",
+        "years": "09.2006 - 06.2008",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Providence College",
+        "title": "Bachelor's of Arts in Mathematics",
+        "years": "09.2002 - 06.2006d",
         "mainTech": [
           "Angular 7/8"
         ],

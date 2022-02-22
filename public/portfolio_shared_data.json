@@ -11,7 +11,12 @@
         {
           "name": "linkedIn",
           "url": "https://www.linkedin.com/in/dorancsmith/",
-          "class": "fab fa-instagram"
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "resume",
+          "url": "https://docs.google.com/document/d/1jfmtawXcWEnjPGUIZo2VdA53tVrTF1-OId8_JKLJevc/edit",
+          "class": "fab fa-resume"
         }
       ],
       "image": "myProfile.jpeg"
