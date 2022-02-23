@@ -25,78 +25,63 @@
       "icons": [
         {
           "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "class": "devicon-html5-plain"
         },
         {
           "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
+          "class": "devicon-css3-plain"
         },
         {
           "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
+          "class": "devicon-javascript-plain"
         },
         {
           "name": "React",
-          "class": "devicon-react-original",
-          "level": "70"
+          "class": "devicon-react-original"
         },
         {
           "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
-          "level": "70"
+          "class": "devicon-mongodb-plain"
         },
         {
           "name": "Redux",
-          "class": "devicon-redux-original",
-          "level": "70"
+          "class": "devicon-redux-original"
         },
         {
           "name": "Express",
-          "class": "devicon-express-original",
-          "level": "70"
+          "class": "devicon-express-original"
         },
         {
           "name": "Node.js",
-          "class": "devicon-nodejs-plain",
-          "level": "70"
+          "class": "devicon-nodejs-plain"
         },
         {
           "name": "PostgreSQL",
-          "class": "devicon-postgresql-plain",
-          "level": "70"
+          "class": "devicon-postgresql-plain"
         },
         {
           "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "70"
+          "class": "devicon-python-plain"
         },
         {
           "name": "Django",
-          "class": "devicon-django-plain",
-          "level": "70"
+          "class": "devicon-django-plain"
         },
         {
           "name": "Vue.js",
-          "class": "devicon-vuejs-plain",
-          "level": "70"
+          "class": "devicon-vuejs-plain"
         },
         {
           "name": "Git",
-          "class": "devicon-git-plain",
-          "level": "70"
+          "class": "devicon-git-plain"
         },
         {
           "name": "GitHub",
-          "class": "devicon-github-original",
-          "level": "70"
+          "class": "devicon-github-original"
         },
         {
           "name": "Trello",
-          "class": "devicon-trello-plain",
-          "level": "70"
+          "class": "devicon-trello-plain"
         }
       ]
     }

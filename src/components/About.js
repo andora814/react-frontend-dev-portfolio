@@ -85,6 +85,13 @@ class About extends Component {
                     <br />
                     <br />
                     {about_part_two}
+                    <br />
+                    <br />
+                    <p>smith.doran@gmail.com</p>
+                    <p>401.835.6623</p>
+                    <a href="https://drive.google.com/file/d/1QQ9X2gkPronIJP3PYkd52M7WIt-jkso0/view?usp=sharing">
+                      Resume
+                    </a>
                   </div>
                 </div>
               </div>

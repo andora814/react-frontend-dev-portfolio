@@ -2,7 +2,7 @@
     "basic_info": {
       "description_header": "Hi, I'm Doran Smith",
       "description": "I am a Software Engineer with a degree in theoretical mathematics and a background in HR compensation analysis. I have experience working in a fast-paced and dynamic high-tech environment, and excel at collaborating and working on a team. I have a proven track record of communicating the most important details to non-technical audiences, allowing me to better message key takeaways, maintain engagement and facilitate decision making.",
-      "description_part_two": "When I am not coding, I enjoy spending time with my husband and our dog. I love yoga, my family, the beach, traveling, skiing, logic problems and jigsaw puzzles.",
+      "description_part_two": "When I am not coding, I enjoy spending time with my husband, our dog and the rest of our family. I love yoga, the beach, traveling, skiing, logic problems and jigsaw puzzles.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -14,7 +14,7 @@
       {
         "title": "The Recipe Box",
         "startDate": "2022",
-        "description": "Full-stack MERN application with tips and yoga poses to help users focus on self care while working from home. Made RESTful API fetch calls to an Express, MongoDB, Node.js backend handling all create, read, update, delete (CRUD) operations, and tested all backend routes during development using Insomnia.",
+        "description": "Full-stack recipe application using Vue, Django, Python and PostgreSQL. Front end was developed with Vue, and a Spoonacular API was used to add ingredients to the “pantry”. Search functionality included to allow users to find recipes with a specific ingredient, which required a nested for loop and multiple string and array methods.",
         "images": [
           "images/portfolio/the-recipe-box/p1.png",
           "images/portfolio/the-recipe-box/p2.png",
@@ -24,16 +24,20 @@
         "github": "https://github.com/andora814/The-Recipe-Box",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "Vue.js",
+            "class": "devicon-vuejs-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Django",
+            "class": "devicon-django-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "PostgreSQL",
+            "class": "devicon-postgresql-plain"
+          },
+          {
+            "name": "Python",
+            "class": "devicon-python-plain"
           }
         ]
       },
@@ -50,16 +54,20 @@
         "github": "https://github.com/JJVenable/GreatReads",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "PostgreSQL",
+            "class": "devicon-postgresql-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Express",
+            "class": "devicon-express-original"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "React",
+            "class": "devicon-react-original"
+          },
+          {
+            "name": "Node.js",
+            "class": "devicon-nodejs-plain"
           }
         ]
       },
@@ -76,16 +84,20 @@
         "github": "https://github.com/andora814/Wellness-While-WFH",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "MongoDB",
+            "class": "devicon-mongodb-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Express",
+            "class": "devicon-express-original"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "React",
+            "class": "devicon-react-original"
+          },
+          {
+            "name": "Node.js",
+            "class": "devicon-nodejs-plain"
           }
         ]
       },
@@ -100,8 +112,12 @@
         "github": "https://github.com/andora814/Unit-1-Project---Memory-Game",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain"
           },
           {
             "class": "devicon-javascript-plain",
