@@ -84,10 +84,19 @@ class About extends Component {
                     <br />
                     <br />
                     <div className="contact-me">
-                      <a href="https://drive.google.com/file/d/1QQ9X2gkPronIJP3PYkd52M7WIt-jkso0/view?usp=sharing">
+                      <a
+                        href="https://docs.google.com/document/d/18W5_o9qeb7q1HQ54DiCSA3sp4XsJWrnlLJnS5JvJWLM/edit?usp=sharing"
+                        className="contact-me-link"
+                        target="_blank"
+                      >
                         Resume
                       </a>
-                      <p>smith.doran@gmail.com</p>
+                      <a
+                        href="mailto:smith.doran@gmail.com"
+                        className="contact-me-link"
+                      >
+                        smith.doran@gmail.com
+                      </a>
                     </div>
                   </div>
                 </div>

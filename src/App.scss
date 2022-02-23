@@ -65,7 +65,7 @@ header {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: black;
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -109,7 +109,7 @@ header h1 {
 
 #about {
 	// background: #fff;
-	background: black;
+	background: #202020;
 	overflow: hidden;
 }
 
@@ -342,7 +342,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #b7eff1;
+	background: #202020;
 	padding-bottom: 5%;
 }
 
@@ -378,7 +378,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #b7eff1;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -431,4 +431,13 @@ footer a:focus {
 .contact-me {
 	display: flex;
 	justify-content: space-between;
+}
+
+.contact-me-link {
+	font-size: 17.5px;
+}
+
+.section-description {
+	text-align: center;
+	padding: 0 0 50px 0;
 }
