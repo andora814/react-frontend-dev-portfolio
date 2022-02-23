@@ -12,11 +12,6 @@
           "name": "linkedIn",
           "url": "https://www.linkedin.com/in/dorancsmith/",
           "class": "fab fa-linkedin"
-        },
-        {
-          "name": "resume",
-          "url": "https://drive.google.com/file/d/1WzDN9Lx8CV2aAPurFD7YgBB0zQ4sbigR/view?usp=sharing",
-          "class": "fa-regular fa-page"
         }
       ],
       "image": "myProfile.jpeg"
