@@ -47,8 +47,7 @@
         "description": "Full-stack PERN application built with 3 other developers. Designed a spin on GoodReads, which allowed users to share their favorite books and add reviews. Backend consisted of 5 associated tables, front end was developed with React Redux for state management, and a Google Books API was used to add books to the site.",
         "images": [
           "images/portfolio/great-reads/p1.png",
-          "images/portfolio/great-reads/p2.png",
-          "images/portfolio/great-reads/p3.png"
+          "images/portfolio/great-reads/p2.png"
         ],
         "url": "https://salty-sierra-46312.herokuapp.com/",
         "github": "https://github.com/JJVenable/GreatReads",
